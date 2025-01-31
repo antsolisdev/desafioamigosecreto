@@ -32,4 +32,4 @@
 
 ## Autor
 
-Antonio Solid, Desarrollador Web (Estudiante).
+Antonio Solis, Desarrollador Web (Estudiante).
